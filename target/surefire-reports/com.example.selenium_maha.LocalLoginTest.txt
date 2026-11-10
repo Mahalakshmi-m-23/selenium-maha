@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.selenium_maha.LocalLoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.300 s -- in com.example.selenium_maha.LocalLoginTest

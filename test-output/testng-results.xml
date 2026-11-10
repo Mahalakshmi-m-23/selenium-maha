@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-11T05:25:28 IST" name="Default suite" finished-at="2026-11-11T05:25:36 IST" duration-ms="8177">
+    <groups>
+    </groups>
+    <test started-at="2026-11-11T05:25:28 IST" name="Default test" finished-at="2026-11-11T05:25:36 IST" duration-ms="8177">
+      <class name="com.example.selenium_maha.LocalLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:28 IST" name="setUp" finished-at="2026-11-11T05:25:31 IST" duration-ms="3355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkBackgroundColor()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:31 IST" name="checkBackgroundColor" finished-at="2026-11-11T05:25:31 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBackgroundColor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:31 IST" name="tearDown" finished-at="2026-11-11T05:25:31 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:31 IST" name="setUp" finished-at="2026-11-11T05:25:33 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:33 IST" name="invalidLoginTest" finished-at="2026-11-11T05:25:33 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:33 IST" name="tearDown" finished-at="2026-11-11T05:25:34 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:34 IST" name="setUp" finished-at="2026-11-11T05:25:35 IST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:35 IST" name="validLoginTest" finished-at="2026-11-11T05:25:35 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.selenium_maha.LocalLoginTest@2a3b5b47]" started-at="2026-11-11T05:25:35 IST" name="tearDown" finished-at="2026-11-11T05:25:36 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.selenium_maha.LocalLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
